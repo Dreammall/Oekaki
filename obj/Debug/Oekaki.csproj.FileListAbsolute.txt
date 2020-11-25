@@ -1,0 +1,9 @@
+C:\Users\yabus\source\repos\Oekaki\bin\Debug\Oekaki.exe.config
+C:\Users\yabus\source\repos\Oekaki\bin\Debug\Oekaki.exe
+C:\Users\yabus\source\repos\Oekaki\bin\Debug\Oekaki.pdb
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.csprojAssemblyReference.cache
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.Properties.Resources.resources
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.csproj.GenerateResource.cache
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.csproj.CoreCompileInputs.cache
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.exe
+C:\Users\yabus\source\repos\Oekaki\obj\Debug\Oekaki.pdb
